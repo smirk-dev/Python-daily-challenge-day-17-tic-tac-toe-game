@@ -21,7 +21,6 @@ This is a classic Tic-Tac-Toe game with a visually appealing interface and AI-dr
 1. Install [Python](https://www.python.org/downloads/) if you haven't already.
 2. Install the required library:
    ```python
-   import pygame
 import sys
 import random
 import math
