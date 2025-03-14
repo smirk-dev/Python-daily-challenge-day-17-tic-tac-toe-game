@@ -17,10 +17,8 @@ This is a classic Tic-Tac-Toe game with a visually appealing interface and AI-dr
 - **Dynamic Menu System**
 - **Win Detection & Automatic Restart**
 
-## 🛠️ Installation & Setup
-1. Install [Python](https://www.python.org/downloads/) if you haven't already.
-2. Install the required library:
-   ```python
+## Code 
+```python
 import sys
 import random
 import math
